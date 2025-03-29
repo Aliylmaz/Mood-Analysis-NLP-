@@ -37,8 +37,8 @@ class SentimentAnalyzer:
         self.fear_keywords = read_file("emotions/fear.txt")
         self.disgust_keywords = read_file("emotions/disgusting.txt")
         self.joy_keywords = read_file("emotions/joy.txt")
-        #self.trust_keywords = read_file("trust.txt")
-        #self.anticipation_keywords = read_file("anticipation.txt")
+        self.trust_keywords = read_file("emotions/trust.txt")
+        self.anticipation_keywords = read_file("anticipation.txt")
 
     def analyze_sentiment(self, text):
         # Temel duygu analizi sonucunu alıyoruz
@@ -81,6 +81,9 @@ class SentimentAnalyzer:
             "Korku": sum(stem in self.fear_keywords for stem in stems),
             "Tiksinme": sum(stem in self.disgust_keywords for stem in stems),
             "Sevinç": sum(stem in self.joy_keywords for stem in stems),
+            "Güven":sum(stem in self.trust_keywords for stem in stems),
+            "Beklenti": sum(stem in self.anticipation_keywords for stem in stems)
+
         }
 
         max_emotion = max(scores, key=scores.get)
@@ -93,6 +96,6 @@ class SentimentAnalyzer:
 
 # Test etmek için
 analyzer = SentimentAnalyzer()
-text = "Eve misafir gelecek,çok mutluyum"
+text = "zor günlere rağmen umudum hiç bitmedi"
 result = analyzer.analyze_sentiment(text)
 print(result)
