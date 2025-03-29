@@ -1,0 +1,423 @@
+Öfke
+Kızgınlık
+Hiddet
+Sinir
+Gazap
+Çileden çıkmak
+Kızmak
+Tepesi atmak
+Kıyamet koparmak
+İsyan etmek
+Yıkıcı öfke
+Hışım
+Delirmek
+Patlamak
+Çıldırmak
+Kontrolden çıkmak
+Aşırı tepki
+Bağırmak
+Sinir krizi
+Kızgın bakış
+Hınç
+Düşmanlık
+Şiddet
+Kin
+Nefret
+Ateş püskürmek
+Burnundan solumak
+Sabır taşması
+Fırtına koparmak
+Sert tepki
+Ağzından köpükler çıkmak
+Gerilim
+İçsel patlama
+Ateşli tartışma
+Çatışma
+Kavga
+Öfkeli haykırış
+Sert çıkış
+Gözlerini kısarak bakmak
+Gerginlik
+Tehditkar bakış
+Üstüne yürümek
+İntikam
+Saldırganlık
+Yıkıcı davranış
+Yumruk sıkmak
+Sinirlenmek
+Sabırsızlık
+Kan beynine sıçramak
+Öfke patlaması
+Aniden sinirlenmek
+Terslemek
+Tepki göstermek
+İnatlaşmak
+Ayar olmak
+Kavgaya tutuşmak
+Aşırı sinirlenmek
+İçsel öfke
+Kontrolsüzlük
+Sertleşmek
+Tahrik olmak
+Deli gibi sinirlenmek
+Saldırmak
+İsyan bayrağı açmak
+Tehdit etmek
+Sesini yükseltmek
+Bağırıp çağırmak
+Hırs
+Hırslanmak
+Sinirli gülümseme
+Ateşli olmak
+Rahatsızlık
+Anlaşmazlık
+İnat
+İnatçılık
+Saldırganlaşmak
+Düşmanlık duygusu
+İğneleyici sözler
+Çatık kaşlar
+Laf sokmak
+Söylenmek
+Küfretmek
+Yıkıcı sözler
+Alay etmek
+Sert bir şekilde konuşmak
+Cevap yetiştirmek
+Ters bakmak
+Kırıcı sözler
+Sinir harbi
+Ters konuşmak
+Kontrolü kaybetmek
+Yumruk atmak
+Öfkeyle bağırmak
+Hakaret etmek
+Düşman gibi bakmak
+Sabır tüketmek
+Damarına basmak
+Burnundan kıl aldırmamak
+Sert yüz ifadesi
+Hırsından delirmek
+Sabırsız bakış
+Tehdit savurmak
+Sesini yükseltmek
+Çekip gitmek
+Yumrukları sıkmak
+Parmak sallamak
+Çeneyi sıkmak
+İntikam planı
+Sinir küpü
+Kabarmak
+Patlamaya hazır
+Gergin duruş
+Sert bakışlar
+Bağırarak konuşmak
+Kızgınca bakmak
+Hırçın
+Kendini tutamamak
+Çılgına dönmek
+Delice bağırmak
+Zıvanadan çıkmak
+Ters ters bakmak
+Gözlerini fal taşı gibi açmak
+Hızla yürümek
+Öfkeyle dolmak
+Ateşli bir şekilde konuşmak
+Gergin bir hava
+Suçlamak
+Sinir bozucu
+Öfkeyi kontrol edememek
+Gürültü koparmak
+Patlayıcı tepki
+Feryat etmek
+Saldırgan tepki
+Hakaret dolu sözler
+Kin tutmak
+İçten içe kaynamak
+Ters tepki
+Tahrik etmek
+İnatla direniş
+Provokasyon
+Tahrik dolu sözler
+Karşı çıkmak
+Yüksek sesle konuşmak
+Kavgacı
+Kin dolu bakış
+Üstüne gitmek
+Sinirleri germek
+Cevap vermek
+Yıkıcı öfke
+Öfkeyle homurdanmak
+Üstelemek
+Fırtına koparmak
+Kışkırtmak
+Ağız dalaşı
+İçten içe kızmak
+Gözlerini fırlatmak
+Kaşlarını çatmak
+Sinirden titremek
+Yutkunmak
+Karşı koymak
+Ters yanıt vermek
+Düşmanca davranmak
+Sinir bozucu ses
+Saldırgan hareketler
+Kavga çıkarmak
+Tehditkar sözler
+Patlayıcı bir şekilde tepki vermek
+Gerilim dolu anlar
+Ateşli bir kavga
+Saldırıya geçmek
+İsyankar davranmak
+Hınç dolu olmak
+Öfke içinde kaynamak
+Birine patlamak
+Öfkeyle gözlerini kapatmak
+Alaycı sözler
+Küfür savurmak
+Kabaran öfke
+Dışa vurulamayan öfke
+Zehir zemberek konuşmak
+Fırlatmak
+Eline geçeni kırmak
+Aşağılamak
+İçinden öfke fışkırmak
+Ters düşmek
+Ses tonunu yükseltmek
+Tahammülsüzlük
+Aşırı sinirlenme
+Zorbalık yapmak
+Kavga etmek
+Düşmanca tavır
+Söylenip durmak
+Karşı gelmek
+Bağırış çağırtı
+Küfür etmek
+Ters yanıt
+Saldırıya geçmek
+Sinirden tırnaklarını sıkmak
+Zorla
+Aniden sinirlenip patlamak
+
+öfkeliyim
+kızgınım
+hiddetliyim
+sinirliyim
+gazap içindeyim
+çileden çıktım
+kızdım
+tepem attı
+kıyameti kopardım
+isyan ettim
+yıkıcı bir öfke taşıyorum
+hışımla doluyum
+delirdim
+patladım
+çıldırdım
+kontrolden çıktım
+aşırı tepki verdim
+bağırdım
+sinir krizi geçirdim
+kızgın bakışlar attım
+hınç doluyum
+düşmanlık hissediyorum
+şiddetli hissediyorum
+kin tuttum
+nefret ediyorum
+ateş püskürüyorum
+burnumdan soluyorum
+sabır taşım çatladı
+fırtına kopardım
+sert tepki verdim
+ağzımdan köpükler çıktı
+gerilim yaşadım
+içim patladı
+ateşli bir tartışmaya girdim
+çatışma yaşadım
+kavga ettim
+öfkeyle haykırdım
+sertçe konuştum
+gözlerimi kısarak baktım
+gerginim
+tehditkâr baktım
+üstüne yürüdüm
+intikam hissediyorum
+saldırganlaştım
+yıkıcı davrandım
+yumruğumu sıktım
+sinirlendim
+sabırsızlandım
+kan beynime sıçradı
+öfke patlaması yaşadım
+aniden sinirlendim
+tersledim
+tepki gösterdim
+inat ettim
+ayar oldum
+kavga ettim
+aşırı sinirlendim
+içimde öfke birikti
+kontrolümü kaybettim
+sertleştim
+tahrik oldum
+deli gibi sinirlendim
+saldırdım
+isyan bayrağını açtım
+tehdit ettim
+sesimi yükselttim
+bağırıp çağırdım
+hırslıyım
+hırslanmaya başladım
+sinirli bir şekilde gülümsedim
+ateşliyim
+rahatsızım
+anlaşmazlık yaşadım
+inatçıyım
+saldırganlaştım
+düşmanlık duyguları taşıyorum
+iğneleyici konuştum
+kaşlarımı çattım
+laf soktum
+söylendim
+küfür ettim
+yıkıcı sözler söyledim
+alay ettim
+sert konuştum
+cevap yetiştirdim
+ters baktım
+kırıcı sözler söyledim
+sinir harbi yaşıyorum
+ters konuştum
+kontrolümü kaybettim
+yumruk attım
+öfkeyle bağırdım
+hakaret ettim
+düşmanca baktım
+sabrım tükendi
+damarıma basıldı
+burnumdan kıl aldırmıyorum
+sert bir yüz ifadesi taktım
+hırsımdan delirdim
+sabırsızca baktım
+tehditler savurdum
+sesimi yükseltiyorum
+çekip gittim
+yumruklarımı sıktım
+parmak salladım
+çenemi sıktım
+intikam planı yapıyorum
+sinir küpüyüm
+kabardım
+patlamaya hazır hissediyorum
+gergin duruyorum
+sert bakışlar attım
+bağırarak konuştum
+kızgınca baktım
+hırçınım
+kendimi tutamıyorum
+çılgına döndüm
+delice bağırdım
+zıvanadan çıktım
+ters ters baktım
+gözlerimi fal taşı gibi açtım
+hızla yürüdüm
+öfkeyle doluyum
+ateşli şekilde konuştum
+gergin bir hava içindeyim
+suçluyorum
+sinirlerim bozuldu
+öfkeyi kontrol edemiyorum
+gürültü kopardım
+patlayıcı bir tepki verdim
+feryat ettim
+saldırgan tepki verdim
+hakaret dolu konuştum
+kin tuttum
+içim içime sığmıyor
+ters tepki verdim
+tahrik edildim
+inatla direndim
+provokasyona uğradım
+tahrik edici sözler söyledim
+karşı çıktım
+yüksek sesle konuştum
+kavgacıyım
+kin dolu bakışlar attım
+üstüne gittim
+sinirler gerildi
+cevap verdim
+yıkıcı öfke içindeyim
+öfkeyle homurdandım
+üsteledim
+fırtına kopardım
+kışkırttım
+ağız dalaşına girdim
+içten içe kızdım
+gözlerimi fırlattım
+kaşlarımı çattım
+sinirimden titredim
+yutkundum
+karşı koydum
+ters cevap verdim
+düşmanca davrandım
+sinir bozucu ses duydum
+saldırgan hareketlerde bulundum
+kavga çıkardım
+tehditkar sözler söyledim
+patlayıcı şekilde tepki verdim
+gerilim dolu anlar yaşadım
+ateşli bir kavgaya girdim
+saldırıya geçtim
+isyan ettim
+hınç doluyum
+öfke içinde kaynıyorum
+birine patladım
+öfkeyle gözlerimi kapattım
+alaycı sözler söyledim
+küfür savurdum
+öfkem kabardı
+öfkem içimde kaldı
+zehir zemberek konuştum
+bir şeyleri fırlattım
+eline geçen her şeyi kırdım
+aşağıladım
+içimden öfke fışkırıyor
+ters düştüm
+ses tonumu yükselttim
+tahammül edemiyorum
+aşırı sinirlendim
+zorbalık yaptım
+kavga ettim
+düşmanca tavırlar sergiledim
+söylenip durdum
+karşı geldim
+bağırış çağırış içindeydim
+küfür ettim
+ters cevap verdim
+saldırıya geçtim
+sinirden tırnaklarımı sıktım
+zorladım
+aniden sinirlenip patladım
+
+sinir
+öfke
+kızgınlık
+hiddet
+gazap
+çileden çıkma
+kızmak
+sövmek
+küfür etmek
+kavga etmek
+çatışmak
+çatışma
+çatışmaya girmek
+çatışmaya tutuşmak
+çatışmaya başlamak
+çatışmaya dalmak
+çatışmaya girişmek
+çatışmaya katılmak
+
+
+
+

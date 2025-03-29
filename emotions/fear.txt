@@ -1,0 +1,406 @@
+Korku
+Dehşet
+Panik
+Ürperti
+Kaygı
+Endişe
+Telaş
+Korkmak
+Ürkeklik
+Korkutucu
+Tedirginlik
+Şok
+Gerginlik
+İrkilmek
+Korkuya kapılmak
+Ürkütmek
+Kaçmak
+Titremek
+Kaygılanmak
+Kabus
+Anksiyete
+Tehdit
+Tehditkar
+Karanlık
+Güvensizlik
+Tedirgin olmak
+Ürkütücü
+Korkunç
+Sığınmak
+Savunmasız
+Düşme korkusu
+Can korkusu
+Kaçış
+Hayalet
+Paranoya
+Tutsaklık
+Kurtulma çabası
+Nefes nefese kalmak
+İç sıkıntısı
+Soğuk ter
+Zifiri karanlık
+Karanlıktan korkmak
+Hızlı nefes almak
+Kıpırdamamak
+İç çöküntü
+Gizlenmek
+Koşmak
+Zayıflık
+Çaresizlik
+Hızlanan kalp
+Boğulma korkusu
+Öleceğini sanmak
+Uykusuzluk
+Aşırı korkmak
+Bağırmak
+Yardım istemek
+Kaçınmak
+Saklanmak
+Kaygı verici
+Solgunluk
+Gözler büyümek
+Kaçış planı
+Korkudan donmak
+Sarsılmak
+Çığlık
+Tehlike
+Kurtuluş
+Koruma arayışı
+Başına bir şey gelmek
+Darbe almak
+Tuzak
+Kıstırılmak
+Düşman
+İzlenme hissi
+Ani korku
+Başına bela gelmek
+Bilinmeyenden korkmak
+Kontrol kaybı
+Felç olmuş gibi hissetmek
+Saldırı
+Kıpırdayamamak
+Gözlerini kapatmak
+Zihinsel çöküntü
+Gizemli varlık
+Endişeli bakış
+Derin korku
+Donakalmak
+Savunmasız hissetmek
+Kaos
+Kendini koruma
+Tehlikeye atılmak
+Tehdit altında hissetmek
+Can havliyle
+İçsel korku
+Kırılganlık
+Boşlukta hissetmek
+Korunaksız
+Sıkıntı
+Tehlikeden kaçmak
+Tuhaf hissetmek
+Kabuslar
+Güvensiz ortam
+Savunmaya geçmek
+Nefesini tutmak
+Titreme
+Hızla çarpan kalp
+Aniden irkilmek
+Nefes darlığı
+İçsel sarsıntı
+Ciddi tehlike
+Kendini kilitlemek
+Uzaklaşmak
+Korkunç bir ses
+Sis
+Savaş
+Kargaşa
+Savunma
+İnlemek
+Zorlanmak
+Boğulma hissi
+Kriz
+Yardım çığlığı
+Kaybolma korkusu
+Hızla kaçmak
+Tehlikeli durum
+Şüphe
+Güvensiz hissetmek
+Kesintisiz korku
+Gece karanlığı
+Dehşet içinde kalmak
+Kaçış yolu aramak
+Boşluktan kaçınmak
+Dar bir alan
+Saldırı korkusu
+Beklenmedik tehdit
+Başını eğmek
+Belirsizlik
+Risk altında olmak
+Korkudan kaçınmak
+Kaçış yolu bulmak
+Gece korkusu
+Bıçak gibi korku
+Gizemli varlık
+Kapana kısılmak
+Bilinmeyen korku
+Ansızın korkmak
+Gizli tehdit
+Bilinmezliğin korkusu
+Aniden beliren korku
+Beklenmedik bir tehlike
+Kıyamet korkusu
+Bilinç kaybı korkusu
+Görünmeyen tehdit
+Beklenmeyen saldırı
+Karanlığa gömülmek
+Belirsizlik karşısında korkmak
+Yüksekten düşmek
+Derin su korkusu
+Tuzak korkusu
+İstenmeyen bir his
+Aniden gelen dehşet
+Kalp atışlarını hissetmek
+Bilinçsizlik
+Delirmek korkusu
+Ölüm korkusu
+Karanlığa düşmek
+Tuhaf hissetmek
+Savunmasız kalmak
+Deprem korkusu
+Yangın korkusu
+Hızlı kalp atışı
+Korkunç olay
+Başa gelen bela
+Şiddetli korku
+Aniden dehşete kapılmak
+Güvensiz hissetmek
+Kaçacak yer bulamamak
+Ürpermek
+Çözümsüzlük
+Birine saldırılacak korkusu
+Tutsak olmak
+Boğulmak
+Kan donduran his
+Beklenmedik korku
+Gerçekten kaçma
+Kesif korku
+Panik atak
+Saldırganlık korkusu
+Ölüm tehditleri
+Kapan kapılmak
+Kısır döngüde kalmak
+Üstüne gitmekten kaçınmak
+Bir tehditten korunmak
+Dehşet dolu bakışlar
+Savunma hissi
+Korkudan kaçınmak
+Gerilmek
+Bilinmezliğe düşmek
+Donakalan bakışlar
+Tehlikeli bir duruma düşmek
+
+korkuyorum
+dehşete düştüm
+panik içindeyim
+ürperiyorum
+kaygılıyım
+endişeliyim
+telaşlıyım
+korkuyorum
+ürkek hissediyorum
+korkutucu geliyor
+tedirginim
+şoktayım
+gerginim
+irkildim
+korkuya kapıldım
+ürktüm
+kaçmak istiyorum
+titriyorum
+kaygılanıyorum
+kabus görüyorum
+anksiyetem var
+tehdit altındayım
+kendimi tehdit edilmiş hissediyorum
+karanlıktan korkuyorum
+güvensiz hissediyorum
+tedirgin oluyorum
+ürküyorum
+çok korkuyorum
+sığınmak istiyorum
+savunmasızım
+düşerim diye korkuyorum
+canımdan endişeliyim
+kaçmak zorundayım
+hayaletlerden korkuyorum
+paranoyak hissediyorum
+tutsak gibi hissediyorum
+kurtulmak istiyorum
+nefes nefese kaldım
+içim daralıyor
+soğuk ter döküyorum
+zifiri karanlıktan korkuyorum
+nefesim hızlandı
+kıpırdayamıyorum
+içim çöktü
+saklanmak istiyorum
+koşmak zorunda hissediyorum
+zayıfım
+çaresiz hissediyorum
+kalbim hızla çarpıyor
+boğulacak gibi oluyorum
+öleceğimi sanıyorum
+uyuyamıyorum
+aşırı korkuyorum
+bağırıyorum
+yardım istiyorum
+kaçınmak istiyorum
+saklanıyorum
+kaygı verici geliyor
+solgun hissediyorum
+gözlerim büyüdü
+kaçış planı yapıyorum
+donakaldım
+sarsıldım
+çığlık attım
+tehlikede hissediyorum
+kurtulmak istiyorum
+korunmak istiyorum
+başına bir şey gelecekmiş gibi hissediyorum
+darbe almış gibiyim
+tuzak varmış gibi hissediyorum
+kıstırılmış hissediyorum
+düşman tarafından izleniyorum
+izleniyorum hissine kapıldım
+ani bir korku yaşıyorum
+başım belaya girecekmiş gibi hissediyorum
+bilinmeyenden korkuyorum
+kontrolü kaybettim
+felç olmuş gibi hissediyorum
+saldırıya uğrayacağım
+kıpırdayamıyorum
+gözlerimi kapatıyorum
+zihinsel çöküntü içindeyim
+gizemli bir varlıktan korkuyorum
+endişeli bakıyorum
+derin bir korku içindeyim
+donakaldım
+savunmasız hissediyorum
+kaosun içindeyim
+kendimi korumaya çalışıyorum
+tehlikeye atılmış hissediyorum
+tehdit altında hissediyorum
+can havliyle kaçıyorum
+içimde bir korku var
+kırılgan hissediyorum
+boşlukta gibiyim
+korunaksızım
+sıkıntılıyım
+tehlikeden kaçmak istiyorum
+tuhaf hissediyorum
+kabuslar görüyorum
+güvensiz bir ortamdayım
+savunmaya geçtim
+nefesimi tuttum
+titriyorum
+kalbim hızla atıyor
+aniden irkildim
+nefes alamıyorum
+içim sarsıldı
+ciddi bir tehlike var
+kendimi kilitliyorum
+uzaklaşmak istiyorum
+korkunç bir ses duydum
+sis içinde kaldım
+savaşın ortasındayım
+kargaşa içindeyim
+savunmaktayım
+inliyorum
+zorlanıyorum
+boğuluyorum
+kriz geçiriyorum
+yardım için çığlık atıyorum
+kaybolmaktan korkuyorum
+hızla kaçıyorum
+tehlikeli bir durumdayım
+şüphe içindeyim
+güvensiz hissediyorum
+kesintisiz bir korku yaşıyorum
+gece karanlığından korkuyorum
+dehşet içindeyim
+kaçış yolu arıyorum
+boşluktan kaçıyorum
+dar bir alandayım
+saldırılmaktan korkuyorum
+beklenmedik bir tehdit var
+başımı eğiyorum
+belirsizlik beni korkutuyor
+risk altındayım
+korkudan uzak duruyorum
+kaçış yolu bulmalıyım
+gece korkularım var
+bıçak gibi keskin bir korku hissediyorum
+kapana kısıldım
+bilinmeyen bir korku içindeyim
+ansızın korkuya kapıldım
+gizli bir tehdit hissediyorum
+bilinmezlik beni korkutuyor
+ani bir korkuyla sarsıldım
+beklenmedik bir tehlike geldi
+kıyamet gibi bir korku hissediyorum
+bilincimi kaybedeceğim diye korkuyorum
+görünmeyen bir tehdit hissediyorum
+beklenmeyen bir saldırıdan korkuyorum
+karanlığa gömülmekten korkuyorum
+belirsizlik beni sarıyor
+yüksekten düşmekten korkuyorum
+derin sudan korkuyorum
+tuzak kurulduğunu hissediyorum
+istenmeyen bir his içindeyim
+ani bir dehşet yaşıyorum
+kalp atışlarımı hissediyorum
+bilinçsiz kalmaktan korkuyorum
+delirmekten korkuyorum
+ölüm korkusu yaşıyorum
+karanlığa düşmekten korkuyorum
+tuhaf hissediyorum
+savunmasız kaldım
+depremden korkuyorum
+yangından korkuyorum
+kalbim hızla atıyor
+korkunç bir olay yaşadım
+başıma bir bela geldi
+şiddetli bir korku içindeyim
+aniden dehşete kapıldım
+güvensiz hissediyorum
+kaçacak yer bulamıyorum
+ürperiyorum
+çözümsüz hissediyorum
+birine saldırılacağından korkuyorum
+tutsak gibiyim
+boğuluyorum
+kanım donuyor
+beklenmedik bir korku yaşıyorum
+gerçekten kaçmak istiyorum
+kesif bir korku içindeyim
+panik atak geçiriyorum
+saldırganlıktan korkuyorum
+ölüm tehditleri alıyorum
+kapana kıstırıldım
+kısır döngüdeyim
+üstüne gitmeye korkuyorum
+bir tehditten korunmaya çalışıyorum
+dehşet dolu bakışlarla etrafa bakıyorum
+kendimi savunuyorum
+korkudan uzak durmak istiyorum
+gerildim
+bilinmezliğe düşmekten korkuyorum
+donakalmış gibiyim
+tehlikeli bir duruma düştüm
+kork
+korkmak
+korku
+korkutucu
+korkunç
+
+
